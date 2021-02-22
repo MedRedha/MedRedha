@@ -1,37 +1,33 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master"]}
   workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_skyline: yes
-          plugin_skyline_year: 0    # Set to 0 to display current year
-          plugin_skyline_frames: 60 # Use 60 frames (half-loop)
-          plugin_languages: yes
-          plugin_languages_ignored: html, css                          # List of languages to ignore
-          plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
-          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
-          plugin_languages_threshold: 2%
-          plugin_stargazers: yes
           plugin_gists: yes
-          plugin_contributors: yes
-          plugin_contributors_base: ""           # Base reference (commit, tag, branch, etc.)
-          plugin_contributors_head: master       # Head reference (commit, tag, branch, etc.)
-          plugin_contributors_ignored: bot       # Ignore "bot" user
-          plugin_contributors_contributions: yes # Display number of contributions for each contributor
           plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_mode: mastered # Display icons instead of labels
-          plugin_topics_limit: 0       # Disable limitations
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0
+          plugin_skyline: yes
+          plugin_skyline_year: 2020
+          plugin_skyline_frames: 60
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 2%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/Paris
