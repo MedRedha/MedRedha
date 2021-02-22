@@ -11,13 +11,16 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          template: classic
+          user: repository-owner              # Optional if you're the owner of target repository
+          query: '{"repo":"repository-name"}'
           plugin_gists: yes
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, php
           plugin_languages_details: percentage
           plugin_languages_threshold: 2%
           plugin_isocalendar: yes
