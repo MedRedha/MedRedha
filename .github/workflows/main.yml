@@ -16,3 +16,22 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_skyline: yes
+          plugin_skyline_year: 0    # Set to 0 to display current year
+          plugin_skyline_frames: 60 # Use 60 frames (half-loop)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css                          # List of languages to ignore
+          plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
+          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%
+          plugin_stargazers: yes
+          plugin_gists: yes
+          plugin_contributors: yes
+          plugin_contributors_base: ""           # Base reference (commit, tag, branch, etc.)
+          plugin_contributors_head: master       # Head reference (commit, tag, branch, etc.)
+          plugin_contributors_ignored: bot       # Ignore "bot" user
+          plugin_contributors_contributions: yes # Display number of contributions for each contributor
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
