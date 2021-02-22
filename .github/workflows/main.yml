@@ -16,9 +16,6 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
-          plugin_skyline: yes
-          plugin_skyline_year: 2020
-          plugin_skyline_frames: 60
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
