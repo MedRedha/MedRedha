@@ -11,9 +11,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          template: classic
-          user: repository-owner              # Optional if you're the owner of target repository
-          query: '{"repo":"repository-name"}'
           plugin_gists: yes
           plugin_topics: yes
           plugin_topics_sort: stars
