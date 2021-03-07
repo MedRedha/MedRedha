@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="803px" height="232px" viewBox="0 0 803 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group@1920</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="ProductSans-Regular, Product Sans" font-size="110" font-weight="normal" fill="#FFFFFF">
+            <tspan x="0" y="106">Med Redha</tspan>
+        </text>
+        <filter x="-1.7%" y="-5.2%" width="104.1%" height="116.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="ProductSans-Regular, Product Sans" font-size="60" font-weight="normal" fill="#FFFFFF">
+            <tspan x="0" y="192">In Code we Trust</tspan>
+        </text>
+        <filter x="-2.1%" y="-9.6%" width="105.1%" height="130.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-12.7%" y="-10.2%" width="125.5%" height="120.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="3.97950983%" y1="26.9930287%" x2="75.8814384%" y2="52.9192657%" id="linearGradient-6">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV-Copy-17" transform="translate(-939.000000, -1496.000000)">
+            <g id="Group" transform="translate(943.000000, 1498.000000)">
+                <g id="Group-3" transform="translate(258.000000, 11.000000)" fill="#FFFFFF" fill-opacity="1">
+                    <g id="Med-Redha">
+                        <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                        <use xlink:href="#text-1"></use>
+                    </g>
+                    <g id="In-Code-we-Trust">
+                        <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                        <use xlink:href="#text-3"></use>
+                    </g>
+                </g>
+                <g id="Logo_green_SVG" filter="url(#filter-5)" transform="translate(0.000000, 16.000000)" fill-rule="nonzero">
+                    <g id="flutter-seeklogo.com">
+                        <polygon id="Path" fill="#47C5FB" points="96.9707272 0 0 97.5554029 30.0142985 127.75067 157 0"></polygon>
+                        <polygon id="Path" fill="#47C5FB" points="96.3749135 90.245886 44.5223881 141.879554 74.6098643 172.2876 104.529299 142.494448 157 90.245886"></polygon>
+                        <polygon id="Path" fill="#00569E" points="74.9850746 172.93197 97.6582045 195.72809 157 195.72809 104.767826 142.986988"></polygon>
+                        <polygon id="Path" fill="#00B5F8" points="43.3507463 142.873186 73.6151543 112.514351 104.276119 143.15752 74.0689464 173.459625"></polygon>
+                        <polygon id="Path" fill-opacity="0.8" fill="url(#linearGradient-6)" points="73.8134328 173.459625 99.3920217 164.969205 101.932836 145.331037"></polygon>
+                    </g>
+                </g>
+                <g id="Line-2" transform="translate(207.000000, 0.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="4">
+                    <line x1="0.337686567" y1="0.144807876" x2="0.5" y2="228" id="Line"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
