@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule: [{cron: "0 * * * *"}]
-  push: {branches: ["master"]}
+  push: {branches: ["master", "develop"]}
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -11,6 +11,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: MedRedha
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_followup: yes
           plugin_gists: yes
           plugin_topics: yes
           plugin_topics_sort: stars
@@ -19,6 +26,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, php
           plugin_languages_details: percentage
+          plugin_languages_colors: github
           plugin_languages_threshold: 2%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -27,4 +35,6 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
           config_timezone: Europe/Paris
