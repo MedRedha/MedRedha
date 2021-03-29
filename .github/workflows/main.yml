@@ -36,6 +36,8 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_people: yes
+          plugin_people_types: thanks
+          plugin_people_identicons: no
+          plugin_people_thanks: na6im, yahiakr, badjio
           config_timezone: Europe/Paris
