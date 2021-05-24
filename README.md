@@ -94,9 +94,9 @@
 
 <details>
   <summary>📈 Some GitHub Metrics</summary>
-  <p align='center'>
-    <img src="https://github.com/MedRedha/MedRedha/blob/master/github-metrics.svg" alt="Metrics" />
-  </p>
+    
+![Metrics](https://github.com/MedRedha/MedRedha/blob/master/github-metrics.svg)
+    
 </details>
 
 <h3 align='center'>
