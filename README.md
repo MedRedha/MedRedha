@@ -16,7 +16,8 @@
   
 </p>
   
-  <img src="./Flutty.PNG" alt="flutty" align="left" width="300"/><img src="./Dashatar.png" alt="dashatar" align="center" width="310"/><img src="./Desginatar.png" alt="desginatar" align="right" width="310"/>
+<p align='center'>
+  <img src="./Flutty.PNG" alt="flutty" align="center" width="300"/><img src="./Dashatar.png" alt="dashatar" align="center" width="310"/>
 </p>
 
 <h4 align='center'>
