@@ -35,7 +35,9 @@
   </a>
 </h4>
 
-</b><br/>
+<p align='center'>
+  <img src="https://readme-stats-delta.vercel.app/api?username=MedRedha&count_private=true&show_icons=true&theme=radical" alt="stats" align="center"/>
+</p>
 
 <p align='center'>
   <b align='center'>💻 Dev Passions 🤩</b><br/><br/>
