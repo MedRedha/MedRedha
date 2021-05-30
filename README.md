@@ -1,25 +1,11 @@
-<h1 align='center'>
-  Hi there 👋 I'm Med Redha 👨‍💻
-</h1>
-
-<p align='center'>
-  ...& I'm a Mobile Developer / UI/UX Designer.
-  
-  <p align='center'>
-  
-  <a href="https://reactnative.dev/">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>&nbsp;&nbsp;
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7F7F7&size=80&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!+I'm+Med+Redha;I'm+a+Mobile+Developer;UI%2FUX+Designer;In+Code+We+Trust)](https://git.io/typing-svg)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
+  <img src="https://badges.pufler.dev/commits/monthly/MedRedha&private=true" alt="commits" />
 </p>
-  
+</br>
 <p align='center'>
-  <img src="./Flutty.PNG" alt="flutty" align="center" width="300"/><img src="./Dashatar.png" alt="dashatar" align="center" width="310"/>
-</p>
-
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=false&theme=default" alt="spotify" align="center"/>
 <h4 align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars 🥳</a>
   </br>
@@ -29,18 +15,17 @@
   </br></br>
   <a href='https://www.paypal.com/donate?hosted_button_id=BZLCXDPKDPQ76'>
     <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
-  <a href='https://www.paypal.com/donate?hosted_button_id=BZLCXDPKDPQ76'>
-    <img width="175" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
-  </a>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/medredha"><img width="210" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=9d5c01"></a>
 </h4>
 
 <p align='center'>
-  <img src="https://readme-stats-delta.vercel.app/api?username=MedRedha&count_private=true&show_icons=true&theme=radical" alt="stats" align="center"/>
+  <img width="450" src="https://readme-stats-delta.vercel.app/api?username=MedRedha&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=MedRedha&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
 </p>
 
 <p align='center'>
-  <b align='center'>💻 Dev Passions 🤩</b><br/><br/>
+  <b align='center'>💻  Dev Passions</b><br/><br/>
   <a href="https://www.apple.com/macbook-pro-16/">
     <img src="https://img.shields.io/badge/Apple-MacBook_Pro_16inch-999999?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
@@ -70,21 +55,19 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   <br/><br/>
-  <b align='center'>🎨 Design Passions 🤩</b><br/><br/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codepen-3B3B3B?style=for-the-badge&logo=codepen&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <b align='center'>🧰  Languages and Tools</b><br/><br/>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
-
 </b><br/>
 
-<details>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MedRedha&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align='center'>
+  😂 Here! A Nerd joke for you!
+</h3>
+<p align='center'>
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
+</p><details>
   <summary>📫 How to reach me</summary>
   <p align='center'>
     <a href='mailto:redha.dirac@gmail.com'>
@@ -100,10 +83,3 @@
 ![Metrics](https://github.com/MedRedha/MedRedha/blob/master/github-metrics.svg)
     
 </details>
-
-<h3 align='center'>
-  😂 Here! A Nerd joke for you!
-</h3>
-<p align='center'>
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
-</p>
