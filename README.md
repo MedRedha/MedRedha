@@ -66,7 +66,12 @@
 </h3>
 <p align='center'>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
-</p><details>
+</p>
+<p align="center"> 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=medredha&badges=2&show-avatar=true&width=320&style=--header-bg-color:%23ED7547;--border-radius:10px" 
+/>
+</p>
+<details>
   <summary>📫 How to reach me</summary>
   <p align='center'>
     <a href='mailto:redha.dirac@gmail.com'>
