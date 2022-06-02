@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7F7F7&size=80&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!+I'm+Med+Redha;I'm+a+Mobile+Developer;UI%2FUX+Designer;In+Code+We+Trust)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=F73F6C&center=true&vCenter=true&width=1000&height=100&lines=Hallo!+Ich+bin+Med+Redha;Ich+bin+ein+Mobile-Entwickler;UI%2FUX-Designer;Im+Code+vertrauen+wir)](https://git.io/typing-svg)
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
   <img src="https://badges.pufler.dev/commits/monthly/MedRedha&private=true" alt="commits" />
@@ -70,19 +70,22 @@
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=medredha&badges=2&show-avatar=true&width=320&style=--header-bg-color:%23ED7547;--border-radius:10px" 
 />
 </p>
-<details>
-  <summary>📫 How to reach me</summary>
-  <p align='center'>
-    <a href='mailto:redha.dirac@gmail.com'>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    </br>
-  </p>
-</details>
+
+<summary>📫 How to reach me</summary>
+<p align='center'>
+  <a href='mailto:redha.dirac@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align='center'>
+  <img width="250" height="500" src="https://user-images.githubusercontent.com/49821074/171757106-fb42487d-50d4-4400-ac84-184bd2d408f0.jpg"/>
+</p>
+
+<summary>📈 Some GitHub Metrics</summary>
 
 <details>
-  <summary>📈 Some GitHub Metrics</summary>
-    
-![Metrics](https://github.com/MedRedha/MedRedha/blob/master/github-metrics.svg)
-    
+  
+  ![Metrics](https://github.com/MedRedha/MedRedha/blob/master/github-metrics.svg)
+  
 </details>
