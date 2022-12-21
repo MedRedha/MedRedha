@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=F73F6C&center=true&vCenter=true&width=1000&height=100&lines=Hallo!+Ich+bin+Med+Redha;Ich+bin+ein+Mobile-Entwickler;UI%2FUX-Designer;Im+Code+vertrauen+wir)](https://git.io/typing-svg)
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
-  <img src="https://badges.pufler.dev/commits/monthly/MedRedha&private=true" alt="commits" />
 </p>
 </br>
 <p align='center'>
@@ -18,8 +17,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/medredha"><img width="210" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=9d5c01"></a>
 </h4>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MedRedha&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align='center'>
   <b align='center'>💻  Dev Passions</b><br/><br/>
@@ -73,13 +70,9 @@
 
 <summary>📫 How to reach me</summary>
 <p align='center'>
-  <a href='mailto:redha.dirac@gmail.com'>
+  <a href='mailto:redha@wuud-team.com'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align='center'>
-  <img width="250" height="500" src="https://user-images.githubusercontent.com/49821074/171757106-fb42487d-50d4-4400-ac84-184bd2d408f0.jpg"/>
 </p>
 
 <summary>📈 Some GitHub Metrics</summary>
