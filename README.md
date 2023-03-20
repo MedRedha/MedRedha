@@ -10,7 +10,7 @@
   </br>
 
   </br>
-  Buy me a Coffee ☕️ 
+  Buy me a coffee ☕️ 
   </br></br>
   <a href='https://www.paypal.com/donate?hosted_button_id=BZLCXDPKDPQ76'>
     <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
