@@ -4,7 +4,7 @@
 </p>
 </br>
 <p align='center'>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=false&theme=default" alt="spotify" align="center"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=false&theme=default" alt="spotify" align="center"/>
 <h4 align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me for Github Stars 🥳</a>
   </br>
