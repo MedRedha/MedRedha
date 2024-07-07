@@ -15,7 +15,7 @@
   <a href='https://www.paypal.com/donate?hosted_button_id=BZLCXDPKDPQ76'>
     <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/medredha"><img width="210" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=9d5c01"></a>
+  <a href="https://www.buymeacoffee.com/medredha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 </h4>
 
 <p align='center'>
@@ -38,10 +38,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Warp-5391FE?style=for-the-badge&logo=Warp&logoColor=white" />
   <img src="https://img.shields.io/badge/WebStorm-fff?style=for-the-badge&logo=WebStorm&logoColor=black" />
   <img src="https://img.shields.io/badge/Xcode-178FE9?style=for-the-badge&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   <br/><br/>
   <b align='center'>🧰  Languages and Tools</b><br/><br/>
