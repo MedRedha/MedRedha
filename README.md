@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=F73F6C&center=true&vCenter=true&width=1000&height=100&lines=Hallo!+Ich+bin+Med+Redha;Ich+bin+ein+Mobile-Entwickler;UI%2FUX-Designer;Im+Code+vertrauen+wir)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=F73F6C&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!;In+Code+We+Trust)](https://git.io/typing-svg)
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
 </p>
-</br>
 <p align='center'>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=false&theme=default" alt="spotify" align="center"/>
 <h4 align='center'>
@@ -10,7 +9,7 @@
   </br>
 
   </br>
-  Buy me a coffee ☕️ 
+  Support My Work 💖
   </br></br>
   <a href='https://www.paypal.com/donate?hosted_button_id=BZLCXDPKDPQ76'>
     <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
@@ -18,8 +17,28 @@
   <a href="https://www.buymeacoffee.com/medredha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 </h4>
 
+<h3 align='center'>📫 Let's Connect</h3>
+<p align='center' style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <a href='mailto:redha@wuud-team.com' style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&borderRadius=30"/>
+  </a>
+  
+  <a href='https://www.upwork.com/fl/~012be5af8d5cf908cd?mp_source=share' style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&style=for-the-badge&borderRadius=30"/>
+  </a>
+  
+  <a href='https://pph.me/medredha93' style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/PeoplePerHour-FF6C37?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA7klEQVR4nI3SPUtcYRCG4WuXFSyCIKiFWFja2djpL7C2EVP4E/wFohBSrGAqyZBCTGPjB1ZqoYVpNK2pLGRPc0Ay8WNnGQtZeVHxvuHphuGZmVwIwSjOlVDGC8wxXnSYYA978TXq5ZP4FGpYRjtNAg3Moh+/YoRPqCWXcBuT6MXzOIuf8QOHcSPOYhlvB4bbOIgXcQwPcBXnU4i1cRGP4i5+xXkM4mXc+R/UxRBP43YM0I4Bz1KAgyj7iq/xLbqpw2kcRdlq3MAeKmnAfIGgjEbW4Sl2sYrdBL5HJ66lCc8ww4s0oZzDuv8An2HXVLbDLrEAAAAASUVORK5CYII=&logoColor=white&style=for-the-badge&borderRadius=30"/>
+  </a>
+  
+  <a href='https://wuud-team.com/' style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/The%20WuuD%20Team-00A7E1?style=for-the-badge&logo=googlechrome&logoColor=white&style=for-the-badge&borderRadius=30"/>
+  </a>
+</p>
+
 <p align='center'>
   <b align='center'>💻  Dev Passions</b><br/><br/>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <a href="https://www.apple.com/macbook-pro-16/">
     <img src="https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
@@ -53,21 +72,10 @@
 </p>
 </b>
 <h3 align='center'>
-  😂 Here! A Nerd joke for you!
+  💡 Did you know?
 </h3>
 <p align='center'>
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
-</p>
-<p align="center"> 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=medredha&badges=2&show-avatar=true&width=320&style=--header-bg-color:%23ED7547;--border-radius:10px" 
-/>
-</p>
-
-<summary>📫 How to reach me</summary>
-<p align='center'>
-  <a href='mailto:redha@wuud-team.com'>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Random Dev Fact" />
 </p>
 
 <summary>📈 Some GitHub Metrics</summary>
