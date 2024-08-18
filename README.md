@@ -27,12 +27,12 @@
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&style=for-the-badge&borderRadius=30"/>
   </a>
   
-  <a href='https://pph.me/medredha93' style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/PeoplePerHour-FF6C37?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA7klEQVR4nI3SPUtcYRCG4WuXFSyCIKiFWFja2djpL7C2EVP4E/wFohBSrGAqyZBCTGPjB1ZqoYVpNK2pLGRPc0Ay8WNnGQtZeVHxvuHphuGZmVwIwSjOlVDGC8wxXnSYYA978TXq5ZP4FGpYRjtNAg3Moh+/YoRPqCWXcBuT6MXzOIuf8QOHcSPOYhlvB4bbOIgXcQwPcBXnU4i1cRGP4i5+xXkM4mXc+R/UxRBP43YM0I4Bz1KAgyj7iq/xLbqpw2kcRdlq3MAeKmnAfIGgjEbW4Sl2sYrdBL5HJ66lCc8ww4s0oZzDuv8An2HXVLbDLrEAAAAASUVORK5CYII=&logoColor=white&style=for-the-badge&borderRadius=30"/>
+  <a href='https://www.peopleperhour.com/marketing/member/contact?id=11632672' style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/PeoplePerHour-FF6C37?style=for-the-badge&logo=React&logoColor=white&style=for-the-badge&borderRadius=30"/>
   </a>
   
   <a href='https://wuud-team.com/' style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/The%20WuuD%20Team-00A7E1?style=for-the-badge&logo=googlechrome&logoColor=white&style=for-the-badge&borderRadius=30"/>
+    <img src="https://img.shields.io/badge/The%20WuuD%20Team-00A7E1?style=for-the-badge&logo=OperaGX&logoColor=white&style=for-the-badge&borderRadius=30"/>
   </a>
 </p>
 
