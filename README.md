@@ -4,25 +4,18 @@
 </p>
 <p align='center'>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=false&theme=default" alt="spotify" align="center"/>
-<h4 align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me for Github Stars 🥳</a>
-  </br>
-
-  </br>
-  Support My Work 💖
-  </br></br>
-  <a href='https://www.paypal.com/donate?hosted_button_id=BZLCXDPKDPQ76'>
-    <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/medredha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
-</h4>
-
-<h3 align='center'>📫 Let's Connect</h3>
+  <p align='center'>
+  <h4 align='center'><b align='center'>📫 Let's Connect</b></h4>
+</p>
 <p align='center' style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href='mailto:redha@wuud-team.com' style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&borderRadius=30"/>
   </a>
   
+  <a href='https://app.usebraintrust.com/talent/1161296/' style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Brain-Trust-FFFFFF?style=for-the-badge&logo=Javascript&logoColor=white&style=for-the-badge&borderRadius=30"/>
+  </a>
+
   <a href='https://www.upwork.com/fl/~012be5af8d5cf908cd?mp_source=share' style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&style=for-the-badge&borderRadius=30"/>
   </a>
@@ -36,8 +29,21 @@
   </a>
 </p>
 
+<h4 align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me for Github Stars 🥳</a>
+  </br>
+
+  </br>
+  Support My Work 💖
+  </br></br>
+  <a href='https://www.paypal.com/donate?hosted_button_id=BZLCXDPKDPQ76'>
+    <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/medredha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+</h4>
+
 <p align='center'>
-  <b align='center'>💻  Dev Passions</b><br/><br/>
+  <b align='center'>💻  Dev Passions & Tools</b><br/><br/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <a href="https://www.apple.com/macbook-pro-16/">
     <img src="https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=apple&logoColor=white" />
