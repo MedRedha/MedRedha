@@ -11,8 +11,9 @@
   <a href='mailto:redha@wuud-team.com' style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&borderRadius=30"/>
   </a>
-  
-  <a href='https://app.usebraintrust.com/talent/1161296/' style="text-decoration: none; margin: 5px;">
+
+  <!--
+<a href='https://app.usebraintrust.com/talent/1161296/' style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/Brain-Trust-FFFFFF?style=for-the-badge&logo=Javascript&logoColor=white&style=for-the-badge&borderRadius=30"/>
   </a>
 
@@ -23,6 +24,7 @@
   <a href='https://www.peopleperhour.com/marketing/member/contact?id=11632672' style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/PeoplePerHour-FF6C37?style=for-the-badge&logo=React&logoColor=white&style=for-the-badge&borderRadius=30"/>
   </a>
+  -->
   
   <a href='https://wuud-team.com/' style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/The%20WuuD%20Team-00A7E1?style=for-the-badge&logo=OperaGX&logoColor=white&style=for-the-badge&borderRadius=30"/>
@@ -36,9 +38,11 @@
   </br>
   Support My Work 💖
   </br></br>
+  <!--
   <a href='https://www.paypal.com/donate?hosted_button_id=BZLCXDPKDPQ76'>
     <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>&nbsp;&nbsp;
+    -->
   <a href="https://www.buymeacoffee.com/medredha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 </h4>
 
