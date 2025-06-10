@@ -2,9 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=F73F6C&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!+I'm+Med+Redha+👋;React+Native+Expert;Mobile+App+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG">
   </a>
-  <a href="https://github.com/MedRedha" style="text-decoration: none; margin: 5px;">
-    <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
-  </a>
 </div>
 
 ### 🤓 About Me
@@ -20,6 +17,9 @@ I'm a passionate Mobile Developer with a strong focus on **React Native**. I lov
   </a>
   <a href="https://wuud-team.com/" style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/My_Website-00A7E1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MedRedha" style="text-decoration: none; margin: 5px;">
+    <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile+Views&color=00968f&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
