@@ -7,27 +7,16 @@
 ### 🤓 About Me
 I'm a passionate Mobile Developer with a strong focus on **React Native**. I love building intuitive, high-performance applications that provide a seamless user experience on both iOS and Android. My goal is to write clean, efficient, and maintainable code.
 
-### 🔗 Let's Connect
-<p align="center">
-  <a href="mailto:redha@wuud-team.com" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01737d1dbf0aecc147" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
-  </a>
-  <a href="https://wuud-team.com/" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/My_Website-00A7E1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MedRedha" style="text-decoration: none; margin: 5px;">
-    <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile+Views&color=00968f&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=true&theme=default" alt="spotify" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=true&theme=novatorem" alt="spotify" />
 </div>
 
 ### 💻 My Tech Stack
+<div align="center">
+  <a href="https://gist.github.com/MedRedha/eb8b8d4b1c4d7492e09d04360adc5812" title="Pulse" align="center">
+    <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=600/>
+  </a>
+</div>
 <div align="center">
   <a href="https://app.warp.dev/referral/2E4V46" title="Get Warp - The Ultimate CLI Experience" align="center">
     <img align="center" src="https://gist.githubusercontent.com/MedRedha/0acc2bb25ffac4bc4d661b34ca21ce81/raw/5c535c85a06c508666865e276ebf20933499df5b/logo.svg" width="220" height="150" alt="Warp Terminal Referral"/>
@@ -99,6 +88,22 @@ I'm a passionate Mobile Developer with a strong focus on **React Native**. I lov
     </td>
   </tr>
 </table>
+
+### 🔗 Let's Connect
+<p align="center">
+  <a href="mailto:redha@wuud-team.com" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01737d1dbf0aecc147" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
+  <a href="https://wuud-team.com/" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/My_Website-00A7E1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MedRedha" style="text-decoration: none; margin: 5px;">
+    <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile+Views&color=00968f&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
 
 <div align="center">
   <h3>💖 Support My Work</h3>
