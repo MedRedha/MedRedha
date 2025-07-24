@@ -17,11 +17,13 @@ I'm a passionate Mobile Developer with a strong focus on **React Native**. I lov
     <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=600/>
   </a>
 </div>
+<br />
 <div align="center">
   <a href="https://app.warp.dev/referral/2E4V46" title="Get Warp - The Ultimate CLI Experience" align="center">
     <img align="center" src="https://gist.githubusercontent.com/MedRedha/0acc2bb25ffac4bc4d661b34ca21ce81/raw/5c535c85a06c508666865e276ebf20933499df5b/logo.svg" width="220" height="150" alt="Warp Terminal Referral"/>
   </a>
 </div>
+<br />
 <table width="100%" align="center">
   <tr>
     <td align="center" width="150">
