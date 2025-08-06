@@ -1,5 +1,4 @@
 const puppeteer = require("puppeteer");
-const fs = require("fs");
 
 (async () => {
   const imagePath = "./prayer-widget.png";
@@ -8,7 +7,7 @@ const fs = require("fs");
   const browser = await puppeteer.launch({ args: ["--no-sandbox"] });
   const page = await browser.newPage();
 
-  await page.setViewport({ width: 400, height: 650 });
+  await page.setViewport({ width: 350, height: 800 });
 
   const widgetUrl = 'https://timesprayer.com/widgets.php?frame=1&lang=en&name=berlin&time=0&fcolor=32146A&tcolor=414692&frcolor=4ABC4A';
 
@@ -16,10 +15,19 @@ const fs = require("fs");
   await page.goto(widgetUrl, { waitUntil: "networkidle0" });
 
   await page.waitForSelector("#boxframeprayer");
+
+  await page.evaluate(() => {
+    const element = document.querySelector('#boxframeprayer');
+    if (element) {
+      element.style.transform = 'scale(2)';
+      element.style.transformOrigin = 'top left';
+    }
+  });
+
   const element = await page.$("#boxframeprayer");
 
   if (element) {
-    console.log("Element found. Taking screenshot...");
+    console.log("Element found. Taking screenshot of scaled element...");
     await element.screenshot({ path: imagePath });
     console.log(`Screenshot saved to ${imagePath}`);
   } else {
