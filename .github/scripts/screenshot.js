@@ -8,7 +8,7 @@ const fs = require("fs");
   const browser = await puppeteer.launch({ args: ["--no-sandbox"] });
   const page = await browser.newPage();
 
-  await page.setViewport({ width: 800, height: 600 });
+  await page.setViewport({ width: 600, height: 650 });
 
   const widgetUrl = 'https://timesprayer.com/widgets.php?frame=1&lang=en&name=berlin&time=0&fcolor=32146A&tcolor=414692&frcolor=4ABC4A';
 
