@@ -15,7 +15,7 @@ write clean, efficient, and maintainable code.
 ### 🕌 Prayer Times
 
 <p align="center">
- <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin" width=600>
+ <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin" width=500>
 </p>
 
 ### 🔗 Let's Connect
@@ -46,7 +46,7 @@ write clean, efficient, and maintainable code.
 
 <div align="center">
   <a href="https://gist.github.com/MedRedha/eb8b8d4b1c4d7492e09d04360adc5812" title="Pulse" align="center">
-    <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=300/>
+    <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=500/>
   </a>
 </div>
 <br />
