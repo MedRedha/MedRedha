@@ -1,4 +1,4 @@
-name: Update Prayer Times Widget
+name: Prayer Times Widget
 
 on:
   schedule:
