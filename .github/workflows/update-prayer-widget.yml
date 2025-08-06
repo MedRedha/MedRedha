@@ -2,7 +2,7 @@ name: Update Prayer Times Widget
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: "0 * * * *" # Every hour
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Install Puppeteer
         run: npm install puppeteer
@@ -27,5 +27,5 @@ jobs:
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'CI: Update prayer times widget'
+          commit_message: "CI: Update prayer times widget"
           file_pattern: prayer-widget.png

@@ -5,13 +5,23 @@
 </div>
 
 ### 🤓 About Me
-I'm a passionate Mobile Developer with a strong focus on **React Native**. I love building intuitive, high-performance applications that provide a seamless user experience on both iOS and Android. My goal is to write clean, efficient, and maintainable code.
 
-<div align="center">
+I'm a passionate Mobile Developer with a strong focus on **React Native**. I love building intuitive,
+high-performance applications that provide a seamless user experience on both iOS and Android. My goal is to
+write clean, efficient, and maintainable code.
+
+### 🕌 Prayer Times
+
+<p align="center">
+  <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin">
+</p>
+
+<!-- <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=true&theme=novatorem" alt="spotify" />
-</div>
+</div> -->
 
 ### 💻 My Tech Stack
+
 <div align="center">
   <a href="https://gist.github.com/MedRedha/eb8b8d4b1c4d7492e09d04360adc5812" title="Pulse" align="center">
     <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=600/>
@@ -92,6 +102,7 @@ I'm a passionate Mobile Developer with a strong focus on **React Native**. I lov
 </table>
 
 ### 🔗 Let's Connect
+
 <p align="center">
   <a href="mailto:redha@wuud-team.com" style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
