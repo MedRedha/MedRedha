@@ -1,3 +1,5 @@
+[![Prayer Times Widget](https://github.com/MedRedha/MedRedha/actions/workflows/prayer-widget.yml/badge.svg?branch=master)](https://github.com/MedRedha/MedRedha/actions/workflows/prayer-widget.yml)
+ 
  <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=F73F6C&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!+I'm+Med+Redha+👋;React+Native+Expert;Mobile+App+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG">
@@ -13,7 +15,7 @@ write clean, efficient, and maintainable code.
 ### 🕌 Prayer Times
 
 <p align="center">
-  <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin" width="400">
+ <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin">
 </p>
 
 ### 🔗 Let's Connect
