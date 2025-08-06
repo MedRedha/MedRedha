@@ -7,7 +7,7 @@ const puppeteer = require("puppeteer");
   const browser = await puppeteer.launch({ args: ["--no-sandbox"] });
   const page = await browser.newPage();
 
-  await page.setViewport({ width: 300, height: 800 });
+  await page.setViewport({ width: 275, height: 800 });
 
   const widgetUrl = 'https://timesprayer.com/widgets.php?frame=1&lang=en&name=berlin&time=0&fcolor=32146A&tcolor=414692&frcolor=4ABC4A';
 
@@ -19,8 +19,10 @@ const puppeteer = require("puppeteer");
   await page.evaluate(() => {
     const element = document.querySelector('#boxframeprayer');
     if (element) {
-      element.style.transform = 'scale(2)';
+      element.style.transform = 'scale(3)';
       element.style.transformOrigin = 'top left';
+      element.style.backgroundColor = '#32146A';
+      element.style.borderRadius = '0px';
     }
   });
 
