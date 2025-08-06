@@ -11,9 +11,9 @@ high-performance applications that provide a seamless user experience on both iO
 write clean, efficient, and maintainable code.
 
 ### 🕌 Prayer Times
-[![Prayer Times Widget](https://github.com/MedRedha/MedRedha/actions/workflows/update-prayer-widget.yml/badge.svg)](https://github.com/MedRedha/MedRedha/actions/workflows/update-prayer-widget.yml)
+
 <p align="center">
-  <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin" width=500>
+  <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin" width="400">
 </p>
 
 ### 🔗 Let's Connect
@@ -45,9 +45,6 @@ write clean, efficient, and maintainable code.
 <div align="center">
   <a href="https://gist.github.com/MedRedha/eb8b8d4b1c4d7492e09d04360adc5812" title="Pulse" align="center">
     <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=300/>
-  </a>
-  <a href="https://app.warp.dev/referral/2E4V46" title="Get Warp - The Ultimate CLI Experience" align="center">
-    <img align="center" src="https://gist.githubusercontent.com/MedRedha/0acc2bb25ffac4bc4d661b34ca21ce81/raw/5c535c85a06c508666865e276ebf20933499df5b/logo.svg" width="220" alt="Warp Terminal Referral"/>
   </a>
 </div>
 <br />
@@ -117,12 +114,16 @@ write clean, efficient, and maintainable code.
     </td>
   </tr>
 </table>
+<br />
+<div align="center">
+  <a href="https://app.warp.dev/referral/2E4V46" title="Get Warp - The Ultimate CLI Experience" align="center">
+    <img align="center" src="https://gist.githubusercontent.com/MedRedha/0acc2bb25ffac4bc4d661b34ca21ce81/raw/5c535c85a06c508666865e276ebf20933499df5b/logo.svg" width=300 alt="Warp Terminal Referral"/>
+  </a>
+</div>
 
 ### 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MedRedha&show_icons=true&theme=dracula" alt="MedRedha's GitHub stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedRedha&theme=highcontrast" alt="GitHub Streak" />
 </p>
