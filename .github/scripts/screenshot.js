@@ -8,7 +8,7 @@ const fs = require("fs");
   const browser = await puppeteer.launch({ args: ["--no-sandbox"] });
   const page = await browser.newPage();
 
-  const widgetUrl = "https://timesprayer.com/widgets.php?frame=1&lang=en&name=berlin&avachang=true";
+  const widgetUrl = 'https://timesprayer.com/widgets.php?frame=1&lang=en&name=berlin&time=0&fcolor=32146A&tcolor=414692&frcolor=4ABC4A';
 
   console.log(`Navigating to ${widgetUrl}...`);
   await page.goto(widgetUrl, { waitUntil: "networkidle0" });
