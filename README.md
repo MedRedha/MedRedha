@@ -15,7 +15,7 @@ write clean, efficient, and maintainable code.
 ### 🕌 Prayer Times
 
 <p align="center">
- <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin">
+ <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin" width=600>
 </p>
 
 ### 🔗 Let's Connect
