@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=F73F6C&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!+I'm+Med+Redha+👋;React+Native+Expert;Mobile+App+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG">
   </a>
@@ -11,26 +11,43 @@ high-performance applications that provide a seamless user experience on both iO
 write clean, efficient, and maintainable code.
 
 ### 🕌 Prayer Times
-
+[![Prayer Times Widget](https://github.com/MedRedha/MedRedha/actions/workflows/update-prayer-widget.yml/badge.svg)](https://github.com/MedRedha/MedRedha/actions/workflows/update-prayer-widget.yml)
 <p align="center">
-  <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin">
+  <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin" width=500>
 </p>
 
-<!-- <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q7dnv12qk5o4c7rpfy57vuko&cover_image=true&theme=novatorem" alt="spotify" />
-</div> -->
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:redha@wuud-team.com" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01737d1dbf0aecc147" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
+  <a href="https://wuud-team.com/" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/My_Website-00A7E1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MedRedha" style="text-decoration: none; margin: 5px;">
+    <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile+Views&color=00968f&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
+
+<div align="center">
+  <h3>💖 Support My Work</h3>
+  <p>If you find my projects useful, consider buying me a book to fuel my creativity!</p>
+  <a href="https://www.buymeacoffee.com/medredha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+  <p>You can also nominate me for <a href='https://stars.github.com/nominate/'>GitHub Stars 🌟</a></p>
+</div>
 
 ### 💻 My Tech Stack
 
 <div align="center">
   <a href="https://gist.github.com/MedRedha/eb8b8d4b1c4d7492e09d04360adc5812" title="Pulse" align="center">
-    <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=600/>
+    <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=300/>
   </a>
-</div>
-<br />
-<div align="center">
   <a href="https://app.warp.dev/referral/2E4V46" title="Get Warp - The Ultimate CLI Experience" align="center">
-    <img align="center" src="https://gist.githubusercontent.com/MedRedha/0acc2bb25ffac4bc4d661b34ca21ce81/raw/5c535c85a06c508666865e276ebf20933499df5b/logo.svg" width="220" height="150" alt="Warp Terminal Referral"/>
+    <img align="center" src="https://gist.githubusercontent.com/MedRedha/0acc2bb25ffac4bc4d661b34ca21ce81/raw/5c535c85a06c508666865e276ebf20933499df5b/logo.svg" width="220" alt="Warp Terminal Referral"/>
   </a>
 </div>
 <br />
@@ -100,30 +117,6 @@ write clean, efficient, and maintainable code.
     </td>
   </tr>
 </table>
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="mailto:redha@wuud-team.com" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01737d1dbf0aecc147" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
-  </a>
-  <a href="https://wuud-team.com/" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/My_Website-00A7E1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MedRedha" style="text-decoration: none; margin: 5px;">
-    <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile+Views&color=00968f&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
-
-<div align="center">
-  <h3>💖 Support My Work</h3>
-  <p>If you find my projects useful, consider buying me a book to fuel my creativity!</p>
-  <a href="https://www.buymeacoffee.com/medredha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
-  <p>You can also nominate me for <a href='https://stars.github.com/nominate/'>GitHub Stars 🌟</a></p>
-</div>
 
 ### 📈 GitHub Insights
 
