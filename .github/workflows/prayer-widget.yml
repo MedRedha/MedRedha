@@ -2,7 +2,7 @@ name: Prayer Times Widget
 
 on:
   schedule:
-    - cron: "0 */1 * * *" # Every hours
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
