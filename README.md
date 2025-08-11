@@ -18,8 +18,12 @@ write clean, efficient, and maintainable code.
 
 ### 🔗 Let's Connect
 <div align="center">
- 
-![Prayer Times Widget](https://github.com/MedRedha/MedRedha/actions/workflows/prayer-widget.yml/badge.svg?branch=master)
+<a href="https://documenter.getpostman.com/view/9793048/2sB3BEoqSD">
+ <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdocumenter.getpostman.com%2Fview%2F9793048%2F2sB3BEoqSD&up_message=Aladhan%20API&up_color=gold&style=for-the-badge&logo=postman&label=Collection">
+ </a>
+<a href="https://documenter.getpostman.com/view/9793048/2sB3BEoqSE">
+ <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdocumenter.getpostman.com%2Fview%2F9793048%2F2sB3BEoqSE&up_message=Al-Quran%20Cloud%20API&up_color=purple&style=for-the-badge&logo=postman&label=Collection&link=https%3A%2F%2Fdocumenter.getpostman.com%2Fview%2F9793048%2F2sB3BEoqSE">
+</a>
 
 </div>
 <p align="center">
@@ -27,10 +31,10 @@ write clean, efficient, and maintainable code.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01737d1dbf0aecc147" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Consultation-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
   </a>
   <a href="https://wuud-team.com/" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/My_Website-00A7E1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-00A7E1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/MedRedha" style="text-decoration: none; margin: 5px;">
     <img src="https://komarev.com/ghpvc/?username=MedRedha&label=Profile+Views&color=00968f&style=for-the-badge" alt="Profile Views"/>
