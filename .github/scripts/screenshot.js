@@ -12,7 +12,7 @@ const puppeteer = require("puppeteer");
   await page.setViewport({ width: 275, height: 800 });
 
   const widgetUrl =
-    "https://timesprayer.com/widgets.php?frame=1&lang=en&name=berlin&time=0&fcolor=32146A&tcolor=414692&frcolor=4ABC4A";
+    "https://timesprayer.com/widgets.php?frame=1&method=3&lang=en&name=berlin&time=0&fcolor=32146A&tcolor=414692&frcolor=4ABC4A";
 
   console.log(`Navigating to ${widgetUrl}...`);
   await page.goto(widgetUrl, { waitUntil: "networkidle0" });
