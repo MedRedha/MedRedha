@@ -10,11 +10,11 @@ I'm a passionate Mobile Developer with a strong focus on **React Native**. I lov
 high-performance applications that provide a seamless user experience on both iOS and Android. My goal is to
 write clean, efficient, and maintainable code.
 
-### 🕌 Prayer Times
-
-<p align="center">
- <img src="prayer-widget.png" alt="Prayer Times Widget for Berlin" width=500>
-</p>
+<div align="center">
+  <a href="https://gist.github.com/MedRedha/eb8b8d4b1c4d7492e09d04360adc5812" title="Pulse" align="center">
+    <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=500/>
+  </a>
+</div>
 
 ### 🔗 Let's Connect
 <div align="center">
@@ -44,18 +44,12 @@ write clean, efficient, and maintainable code.
 <div align="center">
   <h3>💖 Support My Work</h3>
   <p>If you find my projects useful, consider buying me a book to fuel my creativity!</p>
-  <a href="https://www.buymeacoffee.com/medredha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+  <a href="https://www.buymeacoffee.com/medredha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   <p>You can also nominate me for <a href='https://stars.github.com/nominate/'>GitHub Stars 🌟</a></p>
 </div>
 
 ### 💻 My Tech Stack
 
-<div align="center">
-  <a href="https://gist.github.com/MedRedha/eb8b8d4b1c4d7492e09d04360adc5812" title="Pulse" align="center">
-    <img src="https://github.com/MedRedha/Pulse/blob/main/pulse.png?raw=true" alt="Pulse Script Logo" width=500/>
-  </a>
-</div>
-<br />
 <table width="100%" align="center">
   <tr>
     <td align="center" width="150">
